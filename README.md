@@ -3,7 +3,7 @@
 An AI-driven system that automates resume screening using NLP and Machine Learning.
 
 ## 📌 Overview
-Recruiters receive hundreds of resumes for each job posting, making manual screening time-consuming and inefficient. This AI-powered Resume Screening System uses Natural Language Processing (NLP) and Machine Learning (ML) to automate candidate shortlisting based on job description relevance.
+For every job ad, recruiters receive hundreds of resumes, which makes manual screening laborious and ineffective.  This AI-powered resume screening system automatically shortlists candidates based on the relevance of the job description using machine learning (ML) and natural language processing (NLP).
 
 ✅ Extracts text from PDF/DOCX resumes
 
